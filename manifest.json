@@ -1,0 +1,16 @@
+{
+    "name": "First PWA App",
+    "short_name": "PWA App",
+    "description": "This is my first PWA Application",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
